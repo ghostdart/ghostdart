@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some opensource projects.
-- 🌱 I’m currently looking into materialui and enjoying it.
+- 🌱 I’m currently looking into gatsby and enjoying it.
 - 👯 I’m interested to collaborate on some opensource repo
 - 💬 Ask me about my gaming and about my work.
 - 📫 How to reach me <p> <a href="mailto:hunzlahmalik@gmail.com"><img src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
