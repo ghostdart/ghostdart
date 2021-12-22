@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some FYP/semester projects.
+- 🔭 I’m currently working on FYP and Blockchain projects.
 - 🌱 I’m currently looking into MERN and enjoying it.
 - 👯 I’m interested to collaborate on some opensource repo
 - 💬 Ask me about my gaming and about my work.
